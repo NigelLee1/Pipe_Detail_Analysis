@@ -11,4 +11,4 @@ A notebook for analyzing detailed information about a pipe, incorporating intera
 
 3. Review the CCTV video of the selected pipe to gain a comprehensive understanding of its operational performance.
 
-https://www.youtube.com/embed/6RRcLSKql-4
+[![Watch the video](https://i.sstatic.net/Vp2cE.png)]([https://youtu.be/vt5fpE0bzSY](https://www.youtube.com/embed/6RRcLSKql-4))
